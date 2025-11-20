@@ -1,6 +1,6 @@
 FROM debian:bookworm-slim
 
-ARG FLAMENCO_VERSION=3.6
+ARG FLAMENCO_VERSION=3.7
 
 # Curl basically never changes
 # hadolint ignore=DL3008
